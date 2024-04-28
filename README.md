@@ -1,12 +1,16 @@
 #Applied-Data-Science - Capstone
+
 The final task of this capstone project is to create a presentation based on the outcomes of all tasks in previous modules and labs.
 There are a total of 40 points possible for the final assessment, and you will be graded by your peers, who are also completing this assignment.
 
 The main grading criteria will be:
 
 Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
+
 Uploaded your completed presentation in PDF format (1 pt)
+
 Completed the required Executive Summary slide (1 pt)
+
 Completed the required Introduction slide (1 pt)
 Completed the required data collection and data wrangling methodology related slides (1 pt)
 Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
